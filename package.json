@@ -1,5 +1,5 @@
 {
-  "name": "lightview",
+  "name": "screenview",
   "version": "10.2.2",
   "scripts": {
     "ng": "ng",
